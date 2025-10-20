@@ -1,2 +1,4 @@
 # mi_primer_reponew
-Este es mi primer repo que tengo
+Probando mi primer repositorio!
+
+Mi primera contribución 
